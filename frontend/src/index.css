@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  min-height: 80vh;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.ratingStar {
+  color: rgb(243, 221, 21);
+}
+
+.revText {
+  padding: 1rem;
+}
+
+/* .demo {
+  width: 100%;
+}
+
+.demo .btn {
+  width: 100%;
+} */
